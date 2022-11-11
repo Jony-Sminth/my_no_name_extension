@@ -1,0 +1,14 @@
+extension["无名"]={
+	intro:"",
+	author:"无名玩家",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["wuming_liubei.jpg","wuming_machao.jpg","my_lianyishi.jpg","无铭.jpg","wuming_meiluxingnew.jpg",
+		"my_weigong.jpg","wuming_artly.jpg","my_tosaka.jpg","wuming_meiluxing.jpg","jie_weigong.jpg",
+		"wuming_meilaopo.jpg","wuming_guanyu.jpg","2.mp3","extension.js","laopo.jpg","meiluxing.jpg",
+		"my_lianyishi.mp3","my_re_weigong.jpg","niuge.jpg","package.js","se_machao.jpg",
+		"wuming_niemou.jpg","wuming_taoye.jpg","ÃÀÂ¶Ý·.jpg","正義の味方.jpg","汉昭烈帝.jpg","界正義の味方.jpg",
+		"神•马超.jpg","美露莘.jpg","远坂凛.jpg"],
+	size:"11.6MB"
+};
